@@ -25,8 +25,7 @@ const MyUstate = () => {
       </h2>
       <button
         onClick={update}
-        className="px-3 py-2 bg-blue-600 text-white hover:bg-red-600 transition-all duration-300"
-      >
+        className="px-3 py-2 bg-blue-600 text-white hover:bg-red-600 transition-all duration-300" >
         Update
       </button>
     </div>
